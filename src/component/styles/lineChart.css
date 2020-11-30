@@ -1,0 +1,15 @@
+.line__chart {
+  margin: 20px 0;
+}
+.linechart__header {
+  font-size: 15px;
+  font-weight: 600;
+  text-align: center;
+  margin: 10px;
+}
+
+@media (min-width: 320px) and (max-width: 900px) {
+  .line__chart {
+    margin: 40px 0;
+  }
+}

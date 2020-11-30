@@ -1,0 +1,27 @@
+.data__boxCardContent {
+  padding: 11px 70px 11px 20px !important;
+}
+.databox--active {
+  border-top: 10px solid rgb(85, 231, 85);
+}
+.data--red--active {
+  border-top: 10px solid rgb(231, 73, 73);
+}
+.databox__title {
+  font-size: 14px !important;
+  margin-bottom: 12px !important;
+}
+.databox__new__value {
+  font-size: 15px !important;
+  font-weight: 700 !important;
+}
+.databox__total__value {
+  font-size: 10px !important;
+  font-weight: 700 !important;
+}
+.text--green {
+  color: green !important;
+}
+.text--red {
+  color: red !important;
+}

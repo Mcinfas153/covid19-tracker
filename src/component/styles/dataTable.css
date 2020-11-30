@@ -1,0 +1,23 @@
+.data__table {
+  margin-top: 15px;
+  overflow: scroll;
+  height: 400px;
+}
+.datatable__row:nth-child(odd) {
+  background: #ececec;
+}
+.datatable__cell {
+  padding: 7px 15px !important;
+}
+.data__table__header {
+  font-size: 12px !important;
+  font-weight: 600 !important;
+}
+.data__table__country__name {
+  font-size: 12px !important;
+  font-weight: 600 !important;
+}
+.data__table__country__cases {
+  font-size: 12px !important;
+  font-weight: 600 !important;
+}
